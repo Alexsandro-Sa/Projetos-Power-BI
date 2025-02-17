@@ -21,5 +21,3 @@ Este dashboard foi desenvolvido para a Superintendência de Proteção e Defesa 
 ![Página Indicadores](https://github.com/user-attachments/assets/c9014d3e-2403-479f-b99c-abbda51305aa)
 ![Página Glossário](https://github.com/user-attachments/assets/ed63f473-2319-40e6-b323-6d90eab99416)
 
-## Licença
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
