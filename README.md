@@ -8,7 +8,7 @@ Este dashboard foi desenvolvido para a Superintendência de Proteção e Defesa 
 - Análise comparativa entre municípios.
 
 ## Como Utilizar
-1. Abra o arquivo `[dashboard.pbix](https://app.powerbi.com/view?r=eyJrIjoiOTI1ZDllMmMtZGFjMi00ZTJhLWJiYzItOGQ4NjE1MjgwNTZkIiwidCI6IjRjZDgzNWY0LTU0NDAtNDA4Zi05M2EzLTk3NWZjMTdjMzg0YSIsImMiOjR9)` no Power BI Desktop.
+1. Abra o arquivo `ICM.25.pbix` no Power BI Desktop.
 2. Conecte-se às fontes de dados (se necessário).
 3. Explore as visualizações e filtros disponíveis.
 
