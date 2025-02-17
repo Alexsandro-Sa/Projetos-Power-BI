@@ -1,12 +1,11 @@
 # Dashboard de Indicador de Capacidade Municipal - Power BI
 
 ## Descrição do Projeto
-Este dashboard foi desenvolvido para a Superintendência de Proteção e Defesa Civil, com o objetivo de monitorar e analisar a capacidade dos municípios em responder a situações de emergência e desastres.
+Este dashboard foi desenvolvido para a Superintendência de Proteção e Defesa Civil da Bahia (SUDEC), com o objetivo de monitorar e analisar a capacidade dos municípios em responder a situações de emergência e desastres.
 
 ## Funcionalidades
-- Visualização interativa de indicadores municipais.
+- Visualização interativa de indicadores municipais da Bahia.
 - Análise comparativa entre municípios.
-- Alertas automáticos para situações críticas.
 
 ## Como Utilizar
 1. Abra o arquivo `dashboard.pbix` no Power BI Desktop.
@@ -17,14 +16,10 @@ Este dashboard foi desenvolvido para a Superintendência de Proteção e Defesa 
 - Power BI Desktop instalado.
 - Acesso às fontes de dados (se aplicável).
 
-## Estrutura do Projeto
-- `dashboard/`: Contém o arquivo `.pbix` e dados brutos.
-- `docs/`: Documentação adicional e screenshots.
-- `scripts/`: Scripts de transformação de dados.
-
 ## Screenshots
-![Visão Geral do Dashboard]
-![Detalhes do Indicador]
+![Página inicial](https://github.com/user-attachments/assets/683017ef-434b-4dfe-be14-a3a16d225a20)
+![Página Indicadores](https://github.com/user-attachments/assets/c9014d3e-2403-479f-b99c-abbda51305aa)
+![Página Glossário](https://github.com/user-attachments/assets/ed63f473-2319-40e6-b323-6d90eab99416)
 
 ## Licença
 Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
