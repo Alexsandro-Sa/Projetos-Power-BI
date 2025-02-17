@@ -23,8 +23,8 @@ Este dashboard foi desenvolvido para a Superintendência de Proteção e Defesa 
 - `scripts/`: Scripts de transformação de dados.
 
 ## Screenshots
-![Visão Geral do Dashboard](docs/screenshots/overview.png)
-![Detalhes do Indicador](docs/screenshots/detalhes.png)
+![Visão Geral do Dashboard]
+![Detalhes do Indicador]
 
 ## Licença
 Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
